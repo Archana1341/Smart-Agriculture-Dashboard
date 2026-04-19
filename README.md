@@ -19,14 +19,14 @@ This project integrates IoT sensors with a real-time dashboard to monitor soil a
 
 ## 📸 Screenshots
 
-![Dashboard](images/dashboard.png)
-![Analytics](images/graph.png)
+![Dashboard](images/Dashboard.jpeg)  
+![Analytics](images/dashboard1.jpeg)
 
 ---
 
 ## 🎥 Demo Video
 
-Watch here: [Add your YouTube link here]
+Watch here: *(Add your YouTube link here)*
 
 ---
 
