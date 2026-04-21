@@ -7,7 +7,7 @@ An IoT-based smart agriculture monitoring and decision-support system built usin
 ## 👩‍💻 Team Members
 - Archana S  
 - Keziah Bejoy  
-- Melbha Varghese  
+- Melba Varghese  
 
 ---
 
